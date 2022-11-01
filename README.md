@@ -1,4 +1,4 @@
-The Cocktail Menu
+## Teh Cocktail!
 
-Installation
-npm install
+**Installation**
+`npm install`
